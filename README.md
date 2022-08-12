@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fox7725
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...I don't know yet
 - 📫 How to reach me : think strongly to me and I'll appear
 
